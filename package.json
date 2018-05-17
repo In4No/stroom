@@ -8,7 +8,7 @@
     "url": "https://github.com/StephenGrider/Lyrical-GraphQL"
   },
   "scripts": {
-    "start": "node index.js"
+    "start": "node server.js"
   },
   "author": "in4no",
   "license": "ISC",
